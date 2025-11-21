@@ -1,8 +1,8 @@
 [
   { "id": 1, "facilityId": 1, "date": "2025-11-21", "startTime": "08:00", "endTime": "16:00", "role": "Nurse" },
-  { "id": 2, "facilityId": 1, "date": "2025-11-21", "startTime": "16:00", "endTime": "00:00", "role": "Nurse" },
+  { "id": 2, "facilityId": 1, "date": "2025-11-21", "startTime": "16:00", "endTime": "24:00", "role": "Nurse" },
   { "id": 3, "facilityId": 2, "date": "2025-11-22", "startTime": "08:00", "endTime": "16:00", "role": "Doctor" },
   { "id": 4, "facilityId": 3, "date": "2025-11-22", "startTime": "00:00", "endTime": "08:00", "role": "Nurse" },
   { "id": 5, "facilityId": 4, "date": "2025-11-23", "startTime": "08:00", "endTime": "16:00", "role": "Physical Therapist" },
-  { "id": 6, "facilityId": 5, "date": "2025-11-23", "startTime": "16:00", "endTime": "00:00", "role": "Doctor" }
+  { "id": 6, "facilityId": 5, "date": "2025-11-23", "startTime": "16:00", "endTime": "24:00", "role": "Doctor" }
 ]
