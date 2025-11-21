@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Sunrise Hospital", "city": "Las Vegas" },
+  { "id": 2, "name": "Mercy Clinic", "city": "Phoenix" },
+  { "id": 3, "name": "Silverline Care Center", "city": "Los Angeles" },
+  { "id": 4, "name": "Palm Valley Rehab", "city": "San Diego" },
+  { "id": 5, "name": "Grand Mesa Medical", "city": "Denver" },
+  { "id": 6, "name": "Crescent Ridge Hospital", "city": "Salt Lake City" }
+]
