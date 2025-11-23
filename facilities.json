@@ -1,8 +1,8 @@
 [
-  { "id": 1, "name": "Sunrise Hospital", "city": "Las Vegas" },
-  { "id": 2, "name": "Mercy Clinic", "city": "Phoenix" },
-  { "id": 3, "name": "Silverline Care Center", "city": "Los Angeles" },
-  { "id": 4, "name": "Palm Valley Rehab", "city": "San Diego" },
-  { "id": 5, "name": "Grand Mesa Medical", "city": "Denver" },
-  { "id": 6, "name": "Crescent Ridge Hospital", "city": "Salt Lake City" }
+  { "id": 1, "name": "Sunrise Hospital", "city": "Las Vegas", "priority": 3 },
+  { "id": 2, "name": "Mercy Clinic", "city": "Phoenix", "priority": 1 },
+  { "id": 3, "name": "Silverline Care Center", "city": "Los Angeles", "priority": 2 },
+  { "id": 4, "name": "Palm Valley Rehab", "city": "San Diego", "priority": 2 },
+  { "id": 5, "name": "Grand Mesa Medical", "city": "Denver", "priority": 3 },
+  { "id": 6, "name": "Crescent Ridge Hospital", "city": "Salt Lake City", "priority": 1 }
 ]
